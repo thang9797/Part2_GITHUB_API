@@ -8,4 +8,5 @@ Technology Used: Playwright/TS
 
 The results:
 
-![playwright-report/2_Result.png](playwright-report/2_Result.png)
+
+![alt text](playwright-report/2_Result.png)
